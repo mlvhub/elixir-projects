@@ -1,0 +1,488 @@
+{
+  "101": {
+    "province": "1",
+    "name": "San José",
+    "area": "44.62",
+    "population": "352366"
+  },
+  "102": {
+    "province": "1",
+    "name": "Escazú",
+    "area": "34.49",
+    "population": "60201"
+  },
+  "103": {
+    "province": "1",
+    "name": "Desamparados",
+    "area": "118.26",
+    "population": "221346"
+  },
+  "104": {
+    "province": "1",
+    "name": "Puriscal",
+    "area": "553.66",
+    "population": "32767"
+  },
+  "105": {
+    "province": "1",
+    "name": "Tarrazú",
+    "area": "297.5",
+    "population": "16419"
+  },
+  "106": {
+    "province": "1",
+    "name": "Aserrí",
+    "area": "167.1",
+    "population": "56422"
+  },
+  "107": {
+    "province": "1",
+    "name": "Mora",
+    "area": "162.04",
+    "population": "24333"
+  },
+  "108": {
+    "province": "1",
+    "name": "Goicoechea",
+    "area": "31.5",
+    "population": "131529"
+  },
+  "109": {
+    "province": "1",
+    "name": "Santa Ana",
+    "area": "61.42",
+    "population": "39905"
+  },
+  "110": {
+    "province": "1",
+    "name": "Alajuelita",
+    "area": "21.17",
+    "population": "81721"
+  },
+  "111": {
+    "province": "1",
+    "name": "Vázquez de Coronado",
+    "area": "222.2",
+    "population": "63098"
+  },
+  "112": {
+    "province": "1",
+    "name": "Acosta",
+    "area": "342.24",
+    "population": "20906"
+  },
+  "113": {
+    "province": "1",
+    "name": "Tibás",
+    "area": "8.15",
+    "population": "81478"
+  },
+  "114": {
+    "province": "1",
+    "name": "Moravia",
+    "area": "28.62",
+    "population": "55895"
+  },
+  "115": {
+    "province": "1",
+    "name": "Montes de Oca",
+    "area": "15.16",
+    "population": "55814"
+  },
+  "116": {
+    "province": "1",
+    "name": "Turrubares",
+    "area": "415.29",
+    "population": "5482"
+  },
+  "117": {
+    "province": "1",
+    "name": "Dota",
+    "area": "400.22",
+    "population": "7465"
+  },
+  "118": {
+    "province": "1",
+    "name": "Curridabat",
+    "area": "15.95",
+    "population": "69474"
+  },
+  "119": {
+    "province": "1",
+    "name": "Pérez Zeledón",
+    "area": "1905.51",
+    "population": "140872"
+  },
+  "120": {
+    "province": "1",
+    "name": "León Cortés Castro",
+    "area": "120.8",
+    "population": "13288"
+  },
+  "201": {
+    "province": "2",
+    "name": "Alajuela",
+    "area": "388.43",
+    "population": "255598"
+  },
+  "202": {
+    "province": "2",
+    "name": "San Ramón",
+    "area": "1018.64",
+    "population": "77380"
+  },
+  "203": {
+    "province": "2",
+    "name": "Grecia",
+    "area": "395.72",
+    "population": "74860"
+  },
+  "204": {
+    "province": "2",
+    "name": "San Mateo",
+    "area": "125.9",
+    "population": "5904"
+  },
+  "205": {
+    "province": "2",
+    "name": "Atenas",
+    "area": "127.19",
+    "population": "25033"
+  },
+  "206": {
+    "province": "2",
+    "name": "Naranjo",
+    "area": "126.62",
+    "population": "42637"
+  },
+  "207": {
+    "province": "2",
+    "name": "Palmares",
+    "area": "38.06",
+    "population": "33401"
+  },
+  "208": {
+    "province": "2",
+    "name": "Poás",
+    "area": "73.84",
+    "population": "28469"
+  },
+  "209": {
+    "province": "2",
+    "name": "Orotina",
+    "area": "141.92",
+    "population": "17866"
+  },
+  "210": {
+    "province": "2",
+    "name": "San Carlos",
+    "area": "3347.98",
+    "population": "151322"
+  },
+  "211": {
+    "province": "2",
+    "name": "Zarcero",
+    "area": "155.13",
+    "population": "12368"
+  },
+  "212": {
+    "province": "2",
+    "name": "Valverde Vega",
+    "area": "120.25",
+    "population": "18407"
+  },
+  "213": {
+    "province": "2",
+    "name": "Upala",
+    "area": "1580.67",
+    "population": "44556"
+  },
+  "214": {
+    "province": "2",
+    "name": "Los Chiles",
+    "area": "1358.86",
+    "population": "23902"
+  },
+  "215": {
+    "province": "2",
+    "name": "Guatuso",
+    "area": "758.32",
+    "population": "15068"
+  },
+  "301": {
+    "province": "3",
+    "name": "Cartago",
+    "area": "287.77",
+    "population": "149657"
+  },
+  "302": {
+    "province": "3",
+    "name": "Paraíso",
+    "area": "411.91",
+    "population": "60005"
+  },
+  "303": {
+    "province": "3",
+    "name": "La Unión",
+    "area": "44.83",
+    "population": "91090"
+  },
+  "304": {
+    "province": "3",
+    "name": "Jiménez",
+    "area": "286.43",
+    "population": "15859"
+  },
+  "305": {
+    "province": "3",
+    "name": "Turrialba",
+    "area": "1642.67",
+    "population": "78217"
+  },
+  "306": {
+    "province": "3",
+    "name": "Alvarado",
+    "area": "81.06",
+    "population": "13862"
+  },
+  "307": {
+    "province": "3",
+    "name": "Oreamuno",
+    "area": "202.31",
+    "population": "44403"
+  },
+  "308": {
+    "province": "3",
+    "name": "El Guarco",
+    "area": "167.69",
+    "population": "39223"
+  },
+  "401": {
+    "province": "4",
+    "name": "Heredia",
+    "area": "282.6",
+    "population": "118872"
+  },
+  "402": {
+    "province": "4",
+    "name": "Barva",
+    "area": "53.8",
+    "population": "37041"
+  },
+  "403": {
+    "province": "4",
+    "name": "Santo Domingo",
+    "area": "24.84",
+    "population": "38959"
+  },
+  "404": {
+    "province": "4",
+    "name": "Santa Bárbara",
+    "area": "53.21",
+    "population": "33334"
+  },
+  "405": {
+    "province": "4",
+    "name": "San Rafael",
+    "area": "48.39",
+    "population": "42398"
+  },
+  "406": {
+    "province": "4",
+    "name": "San Isidro",
+    "area": "26.96",
+    "population": "18028"
+  },
+  "407": {
+    "province": "4",
+    "name": "Belén",
+    "area": "12.15",
+    "population": "22400"
+  },
+  "408": {
+    "province": "4",
+    "name": "Flores",
+    "area": "6.96",
+    "population": "17298"
+  },
+  "409": {
+    "province": "4",
+    "name": "San Pablo",
+    "area": "7.53",
+    "population": "23370"
+  },
+  "410": {
+    "province": "4",
+    "name": "Sarapiquí",
+    "area": "2140.54",
+    "population": "54537"
+  },
+  "501": {
+    "province": "5",
+    "name": "Liberia",
+    "area": "1436.47",
+    "population": "55921"
+  },
+  "502": {
+    "province": "5",
+    "name": "Nicoya",
+    "area": "1333.68",
+    "population": "47823"
+  },
+  "503": {
+    "province": "5",
+    "name": "Santa Cruz",
+    "area": "1312.27",
+    "population": "46460"
+  },
+  "504": {
+    "province": "5",
+    "name": "Bagaces",
+    "area": "1273.49",
+    "population": "18368"
+  },
+  "505": {
+    "province": "5",
+    "name": "Carrillo",
+    "area": "577.54",
+    "population": "32168"
+  },
+  "506": {
+    "province": "5",
+    "name": "Cañas",
+    "area": "682.2",
+    "population": "27970"
+  },
+  "507": {
+    "province": "5",
+    "name": "Abangares",
+    "area": "675.76",
+    "population": "18319"
+  },
+  "508": {
+    "province": "5",
+    "name": "Tilarán",
+    "area": "638.39",
+    "population": "20337"
+  },
+  "509": {
+    "province": "5",
+    "name": "Nandayure",
+    "area": "565.59",
+    "population": "11185"
+  },
+  "510": {
+    "province": "5",
+    "name": "La Cruz",
+    "area": "1383.9",
+    "population": "19978"
+  },
+  "511": {
+    "province": "5",
+    "name": "Hojancha",
+    "area": "261.42",
+    "population": "7289"
+  },
+  "601": {
+    "province": "6",
+    "name": "Puntarenas",
+    "area": "1842.33",
+    "population": "118928"
+  },
+  "602": {
+    "province": "6",
+    "name": "Esparza",
+    "area": "216.8",
+    "population": "27199"
+  },
+  "603": {
+    "province": "6",
+    "name": "Buenos Aires",
+    "area": "2384.22",
+    "population": "47576"
+  },
+  "604": {
+    "province": "6",
+    "name": "Montes de Oro",
+    "area": "244.76",
+    "population": "12495"
+  },
+  "605": {
+    "province": "6",
+    "name": "Osa",
+    "area": "1930.24",
+    "population": "29547"
+  },
+  "606": {
+    "province": "6",
+    "name": "Aguirre",
+    "area": "543.77",
+    "population": "23915"
+  },
+  "607": {
+    "province": "6",
+    "name": "Golfito",
+    "area": "1753.96",
+    "population": "39699"
+  },
+  "608": {
+    "province": "6",
+    "name": "Coto Brus",
+    "area": "933.91",
+    "population": "47247"
+  },
+  "609": {
+    "province": "6",
+    "name": "Parrita",
+    "area": "478.79",
+    "population": "13940"
+  },
+  "610": {
+    "province": "6",
+    "name": "Corredores",
+    "area": "620.6",
+    "population": "44180"
+  },
+  "611": {
+    "province": "6",
+    "name": "Garabito",
+    "area": "316.31",
+    "population": "13165"
+  },
+  "701": {
+    "province": "7",
+    "name": "Limón",
+    "area": "1765.79",
+    "population": "106356"
+  },
+  "702": {
+    "province": "7",
+    "name": "Pococí",
+    "area": "2403.49",
+    "population": "121735"
+  },
+  "703": {
+    "province": "7",
+    "name": "Siquirres",
+    "area": "860.19",
+    "population": "60881"
+  },
+  "704": {
+    "province": "7",
+    "name": "Talamanca",
+    "area": "2809.93",
+    "population": "32158"
+  },
+  "705": {
+    "province": "7",
+    "name": "Matina",
+    "area": "772.64",
+    "population": "39961"
+  },
+  "706": {
+    "province": "7",
+    "name": "Guácimo",
+    "area": "576.48",
+    "population": "41082"
+  }
+}
