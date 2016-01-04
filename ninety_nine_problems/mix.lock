@@ -1,2 +1,0 @@
-%{"espec": {:hex, :espec, "0.8.5"},
-  "meck": {:hex, :meck, "0.8.3"}}
